@@ -9,7 +9,7 @@ Este es un microservicio básico desarrollado con Node.js y Express. Proporciona
 
 ## Estructura del Proyecto
 
-"my-api"
+<!-- "my-api"
 ├── "index.js"
 ├── "package.json"
 ├── "package-lock.json"
@@ -23,6 +23,7 @@ Este es un microservicio básico desarrollado con Node.js y Express. Proporciona
 │ │ │ └── "ProyectRouter.js"
 │ └── "services"
 │ └── "ProyectService.js"
+-->
 
 ## Instalación
 
